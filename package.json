@@ -14,7 +14,7 @@
 
     "serverless": "^3"
 
-  }
+  },
   "author": "Lewis Green",
   "license": "ISC",
   "bugs": {
