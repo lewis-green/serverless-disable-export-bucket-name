@@ -1,0 +1,24 @@
+{
+  "name": "serverless-disable-export-bucket-name",
+  "version": "1.0.0",
+  "description": "Disable the serverless export bucket name to allow multiple stacks with the same stage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewis-green/serverless-disable-export-bucket-name.git"
+  },
+  "peerDependencies": {
+
+    "serverless": "^3"
+
+  }
+  "author": "Lewis Green",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lewis-green/serverless-disable-export-bucket-name/issues"
+  },
+  "homepage": "https://github.com/lewis-green/serverless-disable-export-bucket-name#readme"
+}
